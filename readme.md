@@ -15,3 +15,7 @@ Dans ce dossier nous allons :
 3. Conserver le code utilisé pour le traitement statistique ;
 4. Rédiger le rapport final sous LaTeX ;
 5. Créer la présentation finale sous LaTeX.
+
+### Travail final
+
+Voir nikitagusarov/projet-aem
